@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1459634267 source:d:\egyetem\dsa\lab5\uppercasebst\main.c
+	<stdio.h>
+	<stdlib.h>
+	"processArgs.h"
+
+1395218476 source:d:\egyetem\dsa\lab5\uppercasebst\processargs.c
+	"processArgs.h"
+
+1395218058 d:\egyetem\dsa\lab5\uppercasebst\processargs.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

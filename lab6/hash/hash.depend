@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1395218476 source:d:\egyetem\dsa\lab6\hash\processargs.c
+	"processArgs.h"
+
+1395218058 d:\egyetem\dsa\lab6\hash\processargs.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1459714302 source:d:\egyetem\dsa\lab6\hash\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"processArgs.h"
+

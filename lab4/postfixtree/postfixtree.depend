@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1458299657 source:d:\egyetem\dsa\lab4\postfixtree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"processArgs.h"
+
+1395214458 d:\egyetem\dsa\lab4\postfixtree\processargs.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1395214876 source:d:\egyetem\dsa\lab4\postfixtree\processargs.c
+	"processArgs.h"
+

@@ -1,0 +1,9 @@
+preorder:
+ D
+ H
+inorder:
+ H
+ D
+postorder:
+ H
+ D

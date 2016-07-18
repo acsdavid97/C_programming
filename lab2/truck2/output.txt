@@ -1,0 +1,10 @@
+road  22 9 10 5 2
+garage none
+5 not at road exit
+road  22 9 10 5
+garage  2
+10 not at road exit
+25 not at road exit
+error: 10 not at exit!
+road  2 22 9 10 5
+garage none

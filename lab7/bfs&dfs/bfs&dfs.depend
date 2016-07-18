@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1460848529 source:d:\dsa\lab7\bfs&dfs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"processArgs.h"
+
+1395218058 d:\dsa\lab7\bfs&dfs\processargs.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1395218476 source:d:\dsa\lab7\bfs&dfs\processargs.c
+	"processArgs.h"
+

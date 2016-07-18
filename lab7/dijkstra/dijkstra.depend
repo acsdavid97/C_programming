@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1460854084 source:d:\dsa\lab7\dijkstra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"processArgs.h"
+
+1395218058 d:\dsa\lab7\dijkstra\processargs.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1395218476 source:d:\dsa\lab7\dijkstra\processargs.c
+	"processArgs.h"
+

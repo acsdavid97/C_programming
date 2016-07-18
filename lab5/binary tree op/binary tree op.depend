@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1395218476 source:d:\egyetem\dsa\lab5\binary tree op\processargs.c
+	"processArgs.h"
+
+1395218058 d:\egyetem\dsa\lab5\binary tree op\processargs.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1459112713 source:d:\egyetem\dsa\lab5\binary tree op\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

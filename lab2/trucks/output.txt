@@ -1,0 +1,7 @@
+road  2 5 10 9 22
+garage none
+road  5 10 9 22
+garage  2
+25 not found on road
+road  5 9 22 10 2
+garage none

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1395218476 source:d:\dsa\lab8\knapsack\processargs.c
+	"processArgs.h"
+
+1395218058 d:\dsa\lab8\knapsack\processargs.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1461166745 source:d:\dsa\lab8\knapsack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"processArgs.h"
+

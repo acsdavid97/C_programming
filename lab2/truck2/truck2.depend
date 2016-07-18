@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1457735525 source:d:\egyetem\dsa\lab2\truck2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+

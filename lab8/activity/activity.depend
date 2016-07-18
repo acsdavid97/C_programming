@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1461331908 source:d:\dsa\lab8\activity\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1395218476 source:d:\dsa\lab8\activity\processargs.c
+	"processArgs.h"
+
+1395218058 d:\dsa\lab8\activity\processargs.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

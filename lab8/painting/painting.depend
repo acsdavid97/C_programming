@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1395218476 source:d:\dsa\lab8\painting\processargs.c
+	"processArgs.h"
+
+1395218058 d:\dsa\lab8\painting\processargs.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1461436230 source:d:\dsa\lab8\painting\main.c
+	<stdio.h>
+	<stdlib.h>
+	"processArgs.h"
+

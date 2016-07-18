@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1460835456 source:d:\dsa\lab7\graphs_first\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"processArgs.h"
+
+1395218058 d:\dsa\lab7\graphs_first\processargs.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1395218476 source:d:\dsa\lab7\graphs_first\processargs.c
+	"processArgs.h"
+
